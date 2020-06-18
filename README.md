@@ -2,6 +2,7 @@
 
 ## About #100MLProjects:
 100MLProjects is a Challenge where I try to attain proficiency in Machine Learning and Deep Learning concepts by doing 100 Projects. The complexity of the projects keeps increasing as I progress through the challenge, so other Machine Learning/Deep Learning aspirants can also follow this path.
+
 ![100 ML Projects Logo](100MLProjects.png)
 
 ## List of Projects
