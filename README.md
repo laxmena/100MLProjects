@@ -2,18 +2,15 @@
 
 ## About #100MLProjects:
 100MLProjects is a Challenge where I try to attain proficiency in Machine Learning and Deep Learning concepts by doing 100 Projects. The complexity of the projects keeps increasing as I progress through the challenge, so other Machine Learning/Deep Learning aspirants can also follow this path.
-
 ![100 ML Projects Logo](100MLProjects.png)
 
 ## List of Projects
-1. Predicting Graduate Admissions : [GitHub Repo](https://github.com/laxmena/100MLProjects/tree/master/Project1%20-%20Graduate%20Admissions%20Prediction) | [Blog Article](https://medium.com/@laxmena/project-1-of-100mlprojects-predicting-graduate-admissions-laxmena-dd6d140c052e?source=---------3------------------) 
-- Start: June 12, 2020 | Completion: June 13, 2020
-
-2. Handwritten Digit Recognition : [GitHub Repo](https://github.com/laxmena/100MLProjects/tree/master/Project2%20-%20Digit%20Recognition) | [Blog Article 1](https://medium.com/@laxmena/project2-of-100mlprojetcs-classification-mnist-digit-recognition-d9208856f1f2) | Blog Article 2
-- Started: June 16, 2020 | Completed: June 18, 2020
-
-## Feedback and Suggestions
-If you have suggestions and feedback regarding this challenge, please leave me a message through [LinkedIn]() or by email: <lakshmanan.meiyappan@gmail.com> .
+1. Predicting Graduate Admissions : [Project Repo](https://github.com/laxmena/100MLProjects/tree/master/Project1%20-%20Graduate%20Admissions%20Prediction) | [Blog Article]() 
+    Timeframe: June 12 to June 13, 2020
+2. Handwritten Digit Recognition : [Project Repo](https://github.com/laxmena/100MLProjects/tree/master/Project2%20-%20Digit%20Recognition) | [Announcement](https://medium.com/@laxmena/project2-of-100mlprojetcs-classification-mnist-digit-recognition-d9208856f1f2) | [Expeience](https://medium.com/@laxmena/handwritten-digit-classification-using-knn-and-svm-9b661220f512)
+    Timeframe: June 16 to June 18, 2020
+3. Implementing Regression Algorithms from scratch : [Project Repo](https://github.com/laxmena/100MLProjects/tree/master/Project3%20-%20Implementing%20Regression%20Algorithms%20from%20Scratch) | [Announcement](https://medium.com/@laxmena/project-3-announcement-implementing-regression-algorithms-from-scratch-100mlprojects-laxmena-cbb508652038) | [My Experience](https://medium.com/@laxmena/implementing-regression-algorithms-from-scratch-experience-p3-of-100mlprojects-ece3509f9819)
+    Timeframe: June 25 to July 02, 2020
 
 
 ## About Me
