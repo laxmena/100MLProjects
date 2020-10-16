@@ -14,7 +14,9 @@ Convolutional Neural Networks are really powerful technique, especially in the c
 - This model doesnt require a GPU to train, a normal CPU is suffice.
 - This model uses a sigmoid activation function in the last fully connected layer.
 - This model at best achieved validation accuracy of ~81% 
+
 Here is the visualization of training and loss values for this model:
+
 ![Visualization of Classifier](images/dogs_vs_cats_2k_viz.JPG)
 IPynb Notebook: [Dogs_vs_Cats 2000_imgs](https://github.com/laxmena/100MLProjects/blob/master/Project5%20-%20Dogs%20vs%20Cats/Dogs_vs_Cats%202000_imgs.ipynb) 
 Saved Model: [cats_vs_dogs_1.h5](https://github.com/laxmena/100MLProjects/blob/master/Project5%20-%20Dogs%20vs%20Cats/cats_vs_dogs_1.h5)
@@ -30,6 +32,7 @@ Saved Model: [cats_vs_dogs_1.h5](https://github.com/laxmena/100MLProjects/blob/m
 - Achieved maximum Validation accuracy of ~94.5% and minimum validation loss of 0.1431
 
 Here is the visualization of training and loss values for this model:
+
 ![Visualization of Classifier](images/dogs_vs_cats_20k_viz.JPG)
 
 This model doesnt seem to overfit, and I ran only 30 epochs. This model could be improved further by running for more epochs until it starts to overfit.

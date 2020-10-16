@@ -12,7 +12,7 @@
 3. Implementing Regression Algorithms from scratch : [Project Repo](https://github.com/laxmena/100MLProjects/tree/master/Project3%20-%20Implementing%20Regression%20Algorithms%20from%20Scratch) | [Announcement](https://medium.com/@laxmena/project-3-announcement-implementing-regression-algorithms-from-scratch-100mlprojects-laxmena-cbb508652038) | [My Experience](https://medium.com/@laxmena/implementing-regression-algorithms-from-scratch-experience-p3-of-100mlprojects-ece3509f9819)
 <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Timeframe: June 25 to July 02, 2020
 4. IPL Data Collection, Visualization and Prediction: [Project Repo](https://github.com/laxmena/100MLProjects/tree/master/Project4%20-%20IPL)<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Timeframe: October 4, 2020 to (ongoing)
-5. Dogs vs Cats - Classification using CNN: [Project Repo](https://github.com/laxmena/100MLProjects/tree/master/Project%205%20-%20Dogs%20vs%20Cats)<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Timeframe: October 14, 2020 to (ongoing)
+5. Dogs vs Cats - Classification using CNN: [Project Repo](https://github.com/laxmena/100MLProjects/tree/master/Project%205%20-%20Dogs%20vs%20Cats)<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Timeframe: October 14, 2020 to October 16, 2020
 
 ## About Lakshmanan Meiyappan @ Laxmena
 I'm __Lakshmanan Meiyappan__ (**@Laxmena**), a Software Engineer and an AI Student. I worked a couple of years in a Multi-National Software company, building Enterprise Softwares for large instituitions and organizations. Now I'm on a break from the professional world, to develop and equip myself by getting into Academia! I'm joining my Masters program in Fall 2020.
