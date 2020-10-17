@@ -13,6 +13,7 @@
 <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Timeframe: June 25 to July 02, 2020
 4. IPL Data Collection, Visualization and Prediction: [Project Repo](https://github.com/laxmena/100MLProjects/tree/master/Project4%20-%20IPL)<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Timeframe: October 4, 2020 to (ongoing)
 5. Dogs vs Cats - Classification using CNN: [Project Repo](https://github.com/laxmena/100MLProjects/tree/master/Project%205%20-%20Dogs%20vs%20Cats)<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Timeframe: October 14, 2020 to October 16, 2020
+6. Tamil Handwritten Character Recognition: [Project Repo](https://github.com/laxmena/100MLProjects/tree/master/Project6%20-%20Tamil%20Handwritten%20Character%20Recognition)<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Timeframe: October 16, 2020 to Ongoing
 
 ## About Lakshmanan Meiyappan @ Laxmena
 I'm __Lakshmanan Meiyappan__ (**@Laxmena**), a Software Engineer and an AI Student. I worked a couple of years in a Multi-National Software company, building Enterprise Softwares for large instituitions and organizations. Now I'm on a break from the professional world, to develop and equip myself by getting into Academia! I'm joining my Masters program in Fall 2020.
